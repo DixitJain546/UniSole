@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/search"
+        android:title="Search"
+        android:iconTintMode="add"
+        android:iconTint="@color/primary_dark_color"
+        >
+
+    </item>
+    <item
+        android:id="@+id/home"
+        android:title="Home"
+        android:iconTintMode="add"
+        android:iconTint="@color/primary_dark_color"
+        >
+
+    </item>
+    <item
+        android:id="@+id/user_profile"
+        android:iconTintMode="add"
+        android:iconTint="@color/primary_dark_color"
+        android:title="User Profile"
+        >
+
+    </item>
+    <item
+        android:iconTintMode="add"
+        android:id="@+id/Your_order"
+        android:iconTint="@color/primary_dark_color"
+        android:title="Your Order"
+        >
+
+    </item>
+    <item
+        android:id="@+id/Shopping_cart"
+        android:iconTint="@color/primary_dark_color"
+        android:title="Shopping Cart"
+        >
+
+    </item>
+    <item
+        android:id="@+id/log_out"
+        android:iconTint="@color/primary_dark_color"
+        android:title="Logout"
+        >
+
+    </item>
+
+</menu>
